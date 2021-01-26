@@ -23,11 +23,10 @@
     left: 0;
     width: 100%;    
 }
-
+/* styling for footer buttons */
 .fa-linkedin{
     color: white;
 }
-
 .network {
     margin: 5px;
 }
@@ -37,7 +36,7 @@ main .col-md-10 {
     margin: 0;
     min-height: 100%;
 }
-
+/* styling for */
 h1 {
     font-size: 28px;
     font-family: 'Times New Roman', Times, serif;
@@ -47,14 +46,13 @@ h1 {
     margin-bottom: 20px;
 }
 h2 {
-    /* font-size: 28px; */
+    
     font-family: 'Times New Roman', Times, serif;
     color:  #ece9e9;
     font-weight: bold;
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 /* Styling for about-me page */
 #bio {
     background-color: #464545;
@@ -67,38 +65,30 @@ h2 {
     margin-right: 15px;
     margin-bottom: 15px;
 }
-.btn-link {
-    font-size: large;
-    font-weight: bold;
-    color: rgb(247, 189, 216) ;
-}
+/* Styling for cards */
 .card {
     background-color: #464545;
     padding: 40px;
     margin: 20px;
    align-items: center  ;
 }
-
 .card img{
     padding: 15px; 
     border:  #fff 3px solid;
     max-width: 80%;
     max-height: 80%;
 }
-
 .card .btn {
     font-weight: bold;
 }
-
 .card-text {
     color: #fff;
     text-align: center;
 }
-/* Styling for contact page */
-.form-control {
-    max-width: 70%;
+/* Styling for buttons and curson */
+.btn {
+    cursor: pointer;
 }
-
 .btn-info {
     color: #fff;
     background-color: #08bdbd;
@@ -113,7 +103,14 @@ h2 {
     text-align: left;
     text-justify: left;
 }
+.btn-link {
+    font-size: large;
+    font-weight: bold;
+    color: rgb(247, 189, 216) ;
+}
+/* styling for resume page */
 #resumeimg {
     margin: 20px;
     border: #464545 2px solid;
 }
+
