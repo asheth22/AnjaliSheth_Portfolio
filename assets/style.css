@@ -1,0 +1,119 @@
+
+/* navigation bar styling */
+#navbarNav{
+    justify-content: flex-end;  
+       
+}
+/* navigation bar anchor */
+#name {
+    background-color: #08bdbd;
+    padding: 5px;
+    font-size: 24px;
+    color:#f8fafa; 
+    font-weight: bold;
+    margin-left: 40px;
+}
+/* footer styling for all pages */
+.footer { 
+    background-color: #464545;
+    min-height: 50px;
+    border-top: #08bdbd solid 5px; 
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;    
+}
+
+.fa-linkedin{
+    color: white;
+}
+
+.network {
+    margin: 5px;
+}
+/* main section styling for all pages */
+main .col-md-10 {
+    background-color: #f8f7f7;
+    margin: 0;
+    min-height: 100%;
+}
+
+h1 {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #08bdbd; 
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2 {
+    /* font-size: 28px; */
+    font-family: 'Times New Roman', Times, serif;
+    color:  #ece9e9;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Styling for about-me page */
+#bio {
+    background-color: #464545;
+    color:  #ece9e9;
+}
+.about-me img {
+    max-width: 100px;
+    max-height: 150px;    
+    float: left; 
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.btn-link {
+    font-size: large;
+    font-weight: bold;
+    color: rgb(247, 189, 216) ;
+}
+.card {
+    background-color: #464545;
+    padding: 40px;
+    margin: 20px;
+   align-items: center  ;
+}
+
+.card img{
+    padding: 15px; 
+    border:  #fff 3px solid;
+    max-width: 80%;
+    max-height: 80%;
+}
+
+.card .btn {
+    font-weight: bold;
+}
+
+.card-text {
+    color: #fff;
+    text-align: center;
+}
+/* Styling for contact page */
+.form-control {
+    max-width: 70%;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #08bdbd;
+    border-color: #08bdbd;
+    margin-bottom: 20px;
+
+}
+.LI-simple-link {
+    color: #fff;
+}
+.channel {
+    text-align: left;
+    text-justify: left;
+}
+#resumeimg {
+    margin: 20px;
+    border: #464545 2px solid;
+}
