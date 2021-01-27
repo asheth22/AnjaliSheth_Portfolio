@@ -108,9 +108,12 @@ h2 {
     font-weight: bold;
     color: rgb(255, 250, 253) ;
 }
-/* styling for resume page */
-#resumeimg {
-    margin: 20px;
-    border: #464545 2px solid;
+/* Styling for resume iframe */
+iframe {
+    display: block;       /* iframes are inline by default */
+    background: #000;
+    border: none;         /* Reset default border */
+    height: 90vh;        /* Viewport-relative units */
+    width: 90vw;
 }
 
