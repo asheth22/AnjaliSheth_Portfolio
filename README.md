@@ -7,7 +7,7 @@ In this project I have created my personal biography with:
 > Information about me: A summary of my professional experience and skills with active link to my Linkedin Page
 > Projects completed : ILinks to deployed applications and Github repositories
 > Resume: Detailed listing of my skills and experience with a link to download PDF version of the resume
-> A contact-me page: Listing multiple options for contacting me
+> A contact-me page: Listing multiple options for contacting me including phone and email
 
 ```
 
